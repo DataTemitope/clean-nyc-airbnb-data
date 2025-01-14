@@ -25,9 +25,4 @@ The dataset includes 48,895 rows and 16 columns containing information about Air
 4. **Detected and flagged outliers** in numerical columns using the Interquartile Range (IQR) method.  
 
 ## Code  
-The cleaning process is fully documented in `nyc_airbnb_cleaning.py`.  
-
-## How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone <repository-url>
+The cleaning process is fully documented in `[nyc_airBNBclean.ipynb](https://github.com/DataTemitope/clean-nyc-airbnb-data/blob/main/NYC_airBNBclean.ipynb)`. 
